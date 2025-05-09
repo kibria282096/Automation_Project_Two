@@ -48,15 +48,15 @@ npm install -g allure-commandline --save-dev
 npm run test:full
 ```
 ### Run Individual Test Suites
-## Q1 – Locked Out User Test with report
+#### Q1 – Locked Out User Test with report
 ```bash
 npm run test:q1
 ```
-## Q2 – Standard User Checkout Flow
+#### Q2 – Standard User Checkout Flow
 ```bash
 npm run test:q2
 ```
-## Q3 – Performance Glitch User Test
+#### Q3 – Performance Glitch User Test
 ```bash
 npm run test:q3
 ```
