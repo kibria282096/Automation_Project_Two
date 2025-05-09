@@ -95,7 +95,7 @@ npm run test:q3
 ![Allure report](assets/Allure_report.png)
 
 ```bash
-npm run report
+npm run test:full
 ```
 
 
