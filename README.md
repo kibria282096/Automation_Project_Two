@@ -1,8 +1,8 @@
-#  Automation Testing Assessment – Saucedemo.com
+# 🚀 Automation Testing Assessment – Saucedemo.com
 
 This is a WebDriverIO-based automation test suite built to test [SauceDemo](https://www.saucedemo.com/) as part of an assessment.
 
-The project uses:
+# 🛠 The project uses:
 
 - **WebdriverIO**
 - - **JavaScript**
@@ -13,17 +13,15 @@ The project uses:
 ---
 
 ## 📁 Project Structure
-Automation_Project2/
-│
 ├── test/
-│ ├── specs/ # Test scenarios (Q1, Q2, Q3)
-│ ├── pageobjects/ # Page Object Model (POM)
-│ ├── pageActions/ # Page actions encapsulated as methods
-│
-├── wdio.conf.js # WebdriverIO configuration
-├── package.json # NPM scripts and dependencies
-├── .gitignore
-├── README.md # You're reading it!
+│   ├── specs/
+│   │   ├── Q1.spec.js
+│   │   ├── Q2.spec.js
+│   │   └── Q3.spec.js
+│   └── pageObjects/
+├── wdio.conf.js
+├── package.json
+└── README.md
 
 ---
 
@@ -32,8 +30,8 @@ Automation_Project2/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Automation_Project2.git
-cd Automation_Project2
+git clone https://github.com/kibria282096/Automation_Project_002.git
+cd Automation_Project_002
 ```
 ### 2. Install Project Dependencies
 ```bash
