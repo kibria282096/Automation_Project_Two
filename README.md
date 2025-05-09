@@ -94,6 +94,11 @@ npm run test:q3
 ## 📊 View Allure Report
 ![Allure report](assets/Allure_report.png)
 
+```bash
+npm run report
+```
+
+
 ## ▶ Full test journey automation video
 ![Automation journey](assets/Full_Test_video.mp4)
 ## 🧾 Notes
