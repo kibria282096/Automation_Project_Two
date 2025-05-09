@@ -24,3 +24,14 @@ Automation_Project2/
 ├── package.json # NPM scripts and dependencies
 ├── .gitignore
 ├── README.md # You're reading it!
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Automation_Project2.git
+cd Automation_Project2
+
