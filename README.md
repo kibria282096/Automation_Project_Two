@@ -34,4 +34,6 @@ Automation_Project2/
 ```bash
 git clone https://github.com/YOUR_USERNAME/Automation_Project2.git
 cd Automation_Project2
+npm install
+npm install -g allure-commandline --save-dev
 
