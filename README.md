@@ -48,15 +48,19 @@ npm install -g allure-commandline --save-dev
 npm run test:full
 ```
 ### Run Individual Test Suites
-#### Q1 – Locked Out User Test with report
+#### Q1 – Locked Out User Test with allure report
 ```bash
 npm run test:q1
 ```
-#### Q2 – Standard User Checkout Flow
+#### Q2 – Standard User Checkout Flow with allure report
 ```bash
 npm run test:q2
 ```
-#### Q3 – Performance Glitch User Test
+#### Q3 – Performance Glitch User Test with allure report
 ```bash
 npm run test:q3
 ```
+### 🧾 Notes
+1. Ensure you have Chrome installed and up to date
+2. You can update the browser settings or selectors in wdio.conf.js if needed
+3. All tests use explicit waits and POM for maintainability
